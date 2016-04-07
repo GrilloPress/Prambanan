@@ -2,6 +2,8 @@
 
 # Learning Java
 
+Java is an object-oriented language. It is compiled. Requires you declare the variable type. Centres around classes.
+
 Resources used:
 
 - [https://docs.oracle.com/javase/tutorial/java/](https://docs.oracle.com/javase/tutorial/java/)
